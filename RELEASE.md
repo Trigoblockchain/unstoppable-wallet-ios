@@ -1,6 +1,6 @@
-# Unstoppable Wallet Release
+# Rigo Wallet Release
 
-This document describes the release process for `Unstoppable` app.
+This document describes the release process for `rigo wallet` app.
 
 ### 1. Prepare dependent libraries
 
