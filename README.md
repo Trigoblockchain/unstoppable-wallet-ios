@@ -1,19 +1,21 @@
-# Unstoppable Wallet
+# Rigo Wallet
 
-We dream of a world… A world where private property is untouchable and market access is unconditional.
+SUPER SECURE
 
-That obsession led us to engineer a crypto wallet that is equally open to all, lives online forever and unconditionally protects your assets.
+Easy Access to tokens
+
+Beyond mere transactions, RIGO WALLET aims to be a holistic wallet solution that adapts to your needs. The forthcoming integration for effortless cryptocurrency swaps is a testament to this commitment. RIGO WALLET is not just about managing transactions; it’s about evolving with the crypto landscape and providing a user-friendly experience that goes beyond expectations.
 
 It is fully peer-to-peer and works without any centrally managed servers. It can't be stopped, blocked or taken down.
 
-Unstoppable is a powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. It provides non-custodial crypto and NFT storage, on-chain decentralized swaps, institutional grade analytics for cryptocurrency and NFT markets, extensive privacy controls and human oriented design. 
+Rigo is a powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. It provides non-custodial crypto and NFT storage, on-chain decentralized swaps, institutional grade analytics for cryptocurrency and NFT markets, extensive privacy controls and human oriented design. 
 
  - It is built with care and adheres to best programming practices and implementation standards in cryptocurrency world. Fully implemented on Swift.
  - It is fully peer-to-peer and works without any centrally managed servers. It can't be stopped, blocked or taken down.
 
 Such approach enables the wallet to operate anywhere and remain censorship-resistant. Only the user is in control of the money.
 
-More at [https://unstoppable.money](https://unstoppable.money)
+More at [https://rigowallet.io](https://rigowallet.io)
 
 ## Download
 
